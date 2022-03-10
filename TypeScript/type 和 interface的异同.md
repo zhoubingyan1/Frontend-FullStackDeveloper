@@ -1,0 +1,7 @@
+- 如何基于一个已有类型, 扩展出一个大部分内容相似, 但是有部分区别的类型?
+- 写一个计算时间的装饰器
+- 写一个缓存的装饰器 实现一个路由跳转通过ts约束参数的routeHelper 实现一个基于ts和事件模式的countdown基础 Scanner 扫描器
+- Parser 解析器 
+- Binder 绑定器 
+- Checker 检查器 
+- Emitter 发射器
